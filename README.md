@@ -1,2 +1,2 @@
-# ChemistryProject1
-Not sure what this will be yet... maybe CC final Mathematica project -> Python?
+# Machine Learning Bandgap Project
+Pretty much a revised version of the stacked ensemble I did on Mathematica.
